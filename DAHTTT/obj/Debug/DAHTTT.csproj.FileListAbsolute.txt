@@ -1,0 +1,14 @@
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\bin\Debug\DAHTTT.exe.config
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\bin\Debug\DAHTTT.exe
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\bin\Debug\DAHTTT.pdb
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.csproj.AssemblyReference.cache
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.Form1.resources
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.Properties.Resources.resources
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.csproj.GenerateResource.cache
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.csproj.CoreCompileInputs.cache
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.exe
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.pdb
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.ThongtinKH.resources
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.QuanLyQuangCao.resources
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.ThemQuangCao.resources
+D:\LEARN\Nam4_Ki1\ĐAHTTT\DAHTTT\DAHTTT\obj\Debug\DAHTTT.ThongTinQuangCao.resources
